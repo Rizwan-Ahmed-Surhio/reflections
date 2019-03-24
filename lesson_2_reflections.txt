@@ -10,3 +10,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	Answer: Stagging area is a temporary place sits between working directory and a commit to
 	repository. it give more controls of how to commit various files and changes   
+
+	This line is added to confirm the commit and 
+	the difference status
