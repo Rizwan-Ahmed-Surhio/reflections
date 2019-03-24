@@ -1,0 +1,12 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	Answer: you need to use command "git init" to create a repository
+
+	It creats a hidden git directory which can be viewed as "ls -a"
+	
+	How is the staging area different from the working directory and the repository?
+	What value do you think it offers?
+
+	Answer: Stagging area is a temporary place sits between working directory and a commit to
+	repository. it give more controls of how to commit various files and changes   
