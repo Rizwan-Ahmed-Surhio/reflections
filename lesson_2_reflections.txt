@@ -13,3 +13,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	This line is added to confirm the commit and 
 	the difference status
+
+	This is another edit made on date 26/3/2019.Just
+	to revise the concept of add and commit.
