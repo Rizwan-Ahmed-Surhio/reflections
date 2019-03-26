@@ -21,3 +21,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	Answer: i will park my commit in stagging area to view and compare with working directory and 
 	with repository before committing to repository.
+
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Anser: Branch will be help full to creat new feature / expereiment while keeping the original safe 
