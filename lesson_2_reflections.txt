@@ -35,3 +35,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	Answer: merging combines two branches features so there will one branch or master with all features .
 			Diagram is visual representation of history of travel of all branches along with master.
+
+	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Answer: Autometic could save time but could also result in breaking the code. 
