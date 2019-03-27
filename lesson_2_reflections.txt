@@ -30,3 +30,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	Answer: very helpful as we can see from where the branch started in master
 			and how many new commits attached in the master after creating the branch 
+
+	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Answer: merging combines two branches features so there will one branch or master with all features .
+			Diagram is visual representation of history of travel of all branches along with master.
