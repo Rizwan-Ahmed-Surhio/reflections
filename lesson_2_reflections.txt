@@ -25,3 +25,8 @@ What happens when you initialize a repository? Why do you need to do it?
 	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	Anser: Branch will be help full to creat new feature / expereiment while keeping the original safe 
+
+	How do the diagrams help you visualize the branch structure?
+
+	Answer: very helpful as we can see from where the branch started in master
+			and how many new commits attached in the master after creating the branch 
