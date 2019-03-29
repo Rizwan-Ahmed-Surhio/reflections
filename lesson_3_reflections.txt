@@ -9,6 +9,8 @@ automatically stay up-to-date with your remote repository?
 
     Fill in your answer here
 
+    Answer: Manually updating gives me more control over when is logical / complete to make an update.
+
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
