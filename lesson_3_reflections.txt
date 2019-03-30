@@ -17,12 +17,14 @@ use one instead of another?
     Fill in your answer here
     Fork copy the repository only within gitHub where clone make a copy in local machine.
     branch allows to add changes in the project repository where fork does not have that option, it 
-    is an additional copy without changing  the original project.
+    is an additional copy without changing the original project.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     Fill in your answer here
+
+    Answer: in the event of any conflict between branch in gitHub and local can be matched with local remote first.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
