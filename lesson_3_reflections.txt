@@ -31,6 +31,9 @@ and what would be harder?
 
     Fill in your answer here
 
+    Answer: without git and github we will use emails and local hard drive with a share folder. git is more organise and systematic but 
+    it has a learning curve involve which currently diggest by IT professionals not others such as accountants, auditors etc.
+
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
