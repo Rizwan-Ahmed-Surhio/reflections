@@ -38,3 +38,5 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+    Answer: When I am working with team and try to experiment , I would use a branch . by doing that i will not hurt the
+    original working version i.e. master
